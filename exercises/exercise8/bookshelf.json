@@ -1,0 +1,22 @@
+{
+  "BookShelf": [
+    {
+      "title": "Wild Love",
+      "publishedYear": 2024,
+      "numberOfPages": 466,
+      "authors": ["Elsie Silver"]
+    },
+    {
+      "title": "Dune",
+      "publishedYear": 2023,
+      "numberOfPages": 896,
+      "authors": ["Frank Herbert"]
+    },
+    {
+      "title": "A Court of Mist and Fury",
+      "publishedYear": 2020,
+      "numberOfPages": 656,
+      "authors": ["Sarah J. Maas"]
+    }
+  ]
+}

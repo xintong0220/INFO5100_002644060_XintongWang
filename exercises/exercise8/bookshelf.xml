@@ -1,0 +1,26 @@
+<BookShelf>
+    <Book>
+        <title>Wild Love</title>
+        <publishedYear>2024</publishedYear>
+        <numberOfPages>466</numberOfPages>
+        <authors>
+            <author>Elsie Silver</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>Dune</title>
+        <publishedYear>2023</publishedYear>
+        <numberOfPages>896</numberOfPages>
+        <authors>
+            <author>Frank Herbert</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>A Court of Mist and Fury</title>
+        <publishedYear>2020</publishedYear>
+        <numberOfPages>656</numberOfPages>
+        <authors>
+            <author>Sarah J. Maas</author>
+        </authors>
+    </Book>
+</BookShelf>
